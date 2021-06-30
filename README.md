@@ -37,23 +37,23 @@ No special requirements.
 
 Run `code --install-extension mattogodoy.hacker-sounds`
 
-or search [Hacker Sounds](https://marketplace.visualstudio.com/items?itemName=mattogodoy.hacker-sounds) in Extensions Marketplace.
+or search [Fallout Sounds](https://marketplace.visualstudio.com/items?itemName=mattogodoy.hacker-sounds) in Extensions Marketplace.
 
 ## How to use
 
 ### Enable / Disable
 
-Hacker Sounds will start immediately when Visual Studio Code is started. However, you can enable and disable the extension by executing these commands in the Command Palette (Cmd+Shift+P):
+Fallout Sounds will start immediately when Visual Studio Code is started. However, you can enable and disable the extension by executing these commands in the Command Palette (Cmd+Shift+P):
 
-- `Hacker Sounds: Enable`
-- `Hacker Sounds: Disable`
+- `Fallout Sounds: Enable`
+- `Fallout Sounds: Disable`
 
 ### Volume control
 
 You can adjust the volume of the sounds by executing these commands in the Command Palette (Cmd+Shift+P):
 
-- `Hacker Sounds: Volume Up`
-- `Hacker Sounds: Volume Down`
+- `Fallout Sounds: Volume Up`
+- `Fallout Sounds: Volume Down`
 
 **NOTE:** The volume adjustments only apply to this extension's sounds. It does not affect the system volume.
 

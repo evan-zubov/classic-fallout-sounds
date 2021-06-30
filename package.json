@@ -1,9 +1,9 @@
 {
-    "name": "hacker-sounds",
-    "publisher": "mattogodoy",
-    "displayName": "Hacker Sounds",
-    "description": "This extension automatically turns you into a very skilled hacker by playing movie-like sounds while you write code.",
-    "version": "1.3.0",
+    "name": "fallout-sounds",
+    "publisher": "evanz",
+    "displayName": "Fallout Sounds",
+    "description": "Based on hacker-sounds extension, it makes your IDE sound like classic fallout",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.40.0"
     },
@@ -17,7 +17,8 @@
         "keyboard",
         "hacker",
         "fx",
-        "sci-fi"
+        "sci-fi",
+        "fallout"
     ],
     "icon": "icon.png",
     "license": "MIT",
@@ -31,20 +32,20 @@
     "contributes": {
         "commands": [
             {
-                "command": "hacker_sounds.enable",
-                "title": "Hacker Sounds: Enable"
+                "command": "fallout_sounds.enable",
+                "title": "Fallout Sounds: Enable"
             },
             {
-                "command": "hacker_sounds.disable",
-                "title": "Hacker Sounds: Disable"
+                "command": "fallout_sounds.disable",
+                "title": "Fallout Sounds: Disable"
             },
             {
-                "command": "hacker_sounds.volumeUp",
-                "title": "Hacker Sounds: Volume Up"
+                "command": "fallout_sounds.volumeUp",
+                "title": "Fallout Sounds: Volume Up"
             },
             {
-                "command": "hacker_sounds.volumeDown",
-                "title": "Hacker Sounds: Volume Down"
+                "command": "fallout_sounds.volumeDown",
+                "title": "Fallout Sounds: Volume Down"
             }
         ]
     },
